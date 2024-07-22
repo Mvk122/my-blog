@@ -34,3 +34,7 @@ a {
 a:hover {
     color: var(--text-color-darker);
 }
+
+.subtitle {
+    color: var(--text-color-darker);
+}

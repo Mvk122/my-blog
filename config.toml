@@ -6,3 +6,6 @@ last_name = "Khandhar"
 linkedin = "https://www.linkedin.com/in/madhav-khandhar/"
 github = "https://github.com/Mvk122"
 sitesy = "https://github.com/Mvk122/sitesy"
+
+[config]
+blog_folders = ["blogs"]

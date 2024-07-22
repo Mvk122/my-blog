@@ -1,0 +1,22 @@
+{% for blog_path, metadata in global %}
+    <hr>
+        {% if metadata.blog_title %}
+        <div>
+            <span style="float:right;">
+                <p class="subtitle">
+                    {{metadata.last_modified}}
+                </p>
+            </span>
+            <span style="float:left;">
+                <a href="{{metadata.blog_path}}">
+                    <h4>{{metadata.blog_title}}</h4>
+                </a>
+            </span>
+        <div style="clear:both;"></div>
+        </div>
+            <div style="display: inline-block;">
+                <p style="text-align:left">{{metadata.blog_description}}</p>
+            </div>            
+        {% endif %}
+
+{% endfor %}

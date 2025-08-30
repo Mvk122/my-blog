@@ -12,6 +12,10 @@ This blog serves as a personal repository of timeless notes, documenting the pri
 
 The blog addresses the lack of intermediate-level content online, where resources are often either highly technical and niche, appealing only to engineers within a niche, or overly simplified "leetcode" tutorials selling a dream to to prospective engineers.
 
+# For Recruiters
+
+Have I put this website as my portfolio on a job application? I'm working on writing synopses and getting demos of my past work on this website. In the meantime, you can take a look at my currently public projects on my [Github](https://github.com/Mvk122) or schedule a call with me if you'd like to see a live demo of some of my projects.
+
 # Blog Posts
 
 {% include "blogs.jinja" %}

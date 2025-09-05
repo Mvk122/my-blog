@@ -6,6 +6,6 @@ blog_description: This blog was built using sitesy, a Rust and Jinja2 based stat
 
 {% include "header.jinja" %}
 
-This blog was built using sitesy
+This blog was built using sitesy, a Rust and Jinja2 based static site generator I built to learn Rust with. asd
 
 {% include "footer.jinja" %}
